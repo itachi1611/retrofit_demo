@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demo</string>
+
+    <!--Progress Dialog-->
+    <string name="progress_dialog_title">Waiting...</string>
+    <string name="progress_dialog_message">Loading from network !</string>
+</resources>
